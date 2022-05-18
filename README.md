@@ -1,2 +1,2 @@
-# Databricks-Works
+# Databricks-Hivesql
 Big data analysis on databricks
